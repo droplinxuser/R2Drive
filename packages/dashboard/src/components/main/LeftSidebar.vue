@@ -47,7 +47,7 @@
       <q-btn class="q-mb-sm" @click="gotoEmail" color="blue" icon="email" label="Email" stack />
 
       <q-btn class="q-mb-sm q-mt-auto q-mb-0" @click="infoPopup=true" color="secondary" icon="question_mark"
-             label="Info"
+             label="I"
              stack />
     </div>
   </div>
