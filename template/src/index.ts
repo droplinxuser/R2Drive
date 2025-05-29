@@ -8,3 +8,5 @@ export default R2Explorer({
 	//   password: 'password'
 	// }
 });
+
+export default R2Explorer({ readonly: false, cfAccessTeamName: '1trust' });
