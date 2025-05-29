@@ -5,7 +5,7 @@ export default R2Explorer({
 	readonly: false,
   cfAccessTeamName: "1trust",
 	 basicAuth: {
-	   username: 'dan',
-	   password: 'lara'
-	 }
+	   username: "dan",
+	   password: "lara",
+	 },
 });
