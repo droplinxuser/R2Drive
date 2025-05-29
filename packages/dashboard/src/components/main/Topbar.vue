@@ -5,7 +5,7 @@
     <q-avatar>
       <img src="/logo-white.svg">
     </q-avatar>
-    R2-Explorer
+    Drive
   </q-toolbar-title>
   <q-space />
   <div>
